@@ -1,0 +1,28 @@
+.nav-bar {
+  display: flex;
+  justify-content: space-between;
+  background-color: white;
+}
+.nav-bar .logo {
+  width: 2px;
+  margin-left: 100px;
+}
+.nav-bar ul {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  margin-top: 50px;
+  font-size: 30px;
+  margin-right: 25px;
+}
+.nav-bar li {
+  padding: 10px;
+}
+
+.focus {
+  background-image: url(../../public/images/aeroplane.jpg);
+  background-repeat: no-repeat;
+  width: 100%;
+}
+
+/*# sourceMappingURL=ef.map */
